@@ -1,1 +1,1 @@
-# Excel_PowerQuery_-_PowerPivot_Analysis
+# Excel_PowerQuery_PowerPivot_Analysis
