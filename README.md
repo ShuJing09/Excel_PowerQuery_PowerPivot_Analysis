@@ -1,6 +1,6 @@
 # Excel_PowerQuery_PowerPivot_Analysis
 
-## Tools Used 🔧
+# Tools Used 🔧
 
 ⚙️ Power Query \
 🧩 Power Pivot \
@@ -8,7 +8,7 @@
 📈 Pivot Charts \
 🧮 DAX (Data Analysis Expressions)
 
-## Project : Questions to Answer ❓
+# Project : Questions to Answer ❓
 1. Do more skills get you better pay?
 2. What’s the salary for data jobs in different regions?
 3. What are the top skills of data professionals?
