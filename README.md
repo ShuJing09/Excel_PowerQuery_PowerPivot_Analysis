@@ -25,8 +25,8 @@
 
    * :open_file_folder: _data_jobs_all_ <br>
      <br>
-   <img width="298" height="502" alt="image" src="https://github.com/user-attachments/assets/96c6067a-390c-44ec-8f60-5b72e005679e" />
-
+   <img width="298" height="502" alt="image" src="https://github.com/user-attachments/assets/96c6067a-390c-44ec-8f60-5b72e005679e" /> <br>
+<br>
    * ✂ _data_jobs_skill_ <br>
      <br>
    <img width="313" height="476" alt="image" src="https://github.com/user-attachments/assets/88f289e5-e03a-4020-85f3-66a425146a08" />
