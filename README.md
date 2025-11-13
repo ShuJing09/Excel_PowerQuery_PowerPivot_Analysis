@@ -41,7 +41,7 @@
    <img width="2550" height="806" alt="image" src="https://github.com/user-attachments/assets/96da1dff-c2a0-4510-a87e-0c46abd12a78" />
 
 ## The Analysis 📈
-### 1. Do more skills get you better pay?
+### 1. More Skills = Better Pay?
 
 * 🧮 Added measure useing DAX functions like DIVIDE() for skills per job, MEDIAN() for median salary. <br>
 
@@ -50,7 +50,7 @@
 1️⃣ The data shows a moderate positive correlation betwween the number of skills and yearly salary among data professionals, especially in technical roles (Data Engineers). \
 2️⃣ However, seniority and specialization strongly impact the salary, where the skill count alone doesn’t guarantee higher pay.
 
-## 2. What’s the salary for data jobs in different regions?
+## 2. Yearly Salary of Each Jobs in Different Regions
 
 
 ## Pivot Charts
