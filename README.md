@@ -16,12 +16,12 @@
    
 # Extract, Transform and Load Data
 ## Extract 📥
-+ Extract the data from Excel Workbook (_data_salary_all.xlsx_) and create two queries: \
-:open_file_folder: 1st query, _data_jobs_all_ that contains all job information. \
+- Extract the data from Excel Workbook (_data_salary_all.xlsx_) and create two queries: \
+:open_file_folder: First query, _data_jobs_all_ that contains all job information. \
 ✂ Second query, _data_jobs_skills_ that consists the skills for each job ID.
 
 ## Transform 🔄
-+ Transform the data by changing column type, trimming text, inserting custom & conditional columns, spliting text by delimeter and unpivoting columns. 
+- Transform the data by changing column type, trimming text, inserting custom & conditional columns, spliting text by delimeter and unpivoting columns. 
 
 * _data_jobs_all_
 <img width="298" height="502" alt="image" src="https://github.com/user-attachments/assets/96c6067a-390c-44ec-8f60-5b72e005679e" />
