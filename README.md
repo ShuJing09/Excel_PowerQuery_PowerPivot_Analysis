@@ -14,8 +14,28 @@
 3. What are the top skills of data professionals?
 4. What’s the pay for the top 10 skills?
    
-## Power Query
-- Perform ETL process
+# Extract, Transform and Load Data
+## Extract 📥
+* Extract the data from Excel Workbook (_data_salary_all.xlsx_) and create two queries:
+:open_file_folder: 1st query, _data_salary_all_ that contains all job information. \
+✂ Second query, _data_job_skills_ that consists the skills for each job ID.
+
+## Transform 🔄
+Transform the data by changing column type, trimming text, inserting custom & conditional columns, spliting text by delimeter and unpivoting columns. 
+
+* _data_salary_all_
+<img width="298" height="502" alt="image" src="https://github.com/user-attachments/assets/96c6067a-390c-44ec-8f60-5b72e005679e" />
+
+* _data_job_skill_
+<img width="313" height="476" alt="image" src="https://github.com/user-attachments/assets/88f289e5-e03a-4020-85f3-66a425146a08" />
+
+## Load 💻
+* _data_salary_all_
+<img width="2549" height="901" alt="image" src="https://github.com/user-attachments/assets/6b5171b8-c2b1-430f-b3e6-e3dfb0d9088c" />
+
+* _data_job_skill_
+<img width="2550" height="806" alt="image" src="https://github.com/user-attachments/assets/96da1dff-c2a0-4510-a87e-0c46abd12a78" />
+
 
 ## Pivot Tables
 
