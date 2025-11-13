@@ -43,6 +43,8 @@
 ## The Analysis 📈
 ### 1. Do more skills get you better pay?
 
+* 🧮 Added measure useing DAX functions like DIVIDE() for skills per job, MEDIAN() for median salary. <br>
+
 <img width="1116" height="632" alt="image" src="https://github.com/user-attachments/assets/3039dbd1-e828-4ba8-8b9f-def1647ee9c9" /> <br>
 
 1️⃣ The data shows a moderate positive correlation betwween the number of skills and yearly salary among data professionals, especially in technical roles (Data Engineers). \
