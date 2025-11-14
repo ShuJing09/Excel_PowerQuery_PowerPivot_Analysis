@@ -47,7 +47,8 @@
 
 <img width="1116" height="632" alt="image" src="https://github.com/user-attachments/assets/3039dbd1-e828-4ba8-8b9f-def1647ee9c9" /> <br>
 
-1️⃣ The data shows a moderate positive correlation betwween the number of skills and yearly salary among data professionals, especially in technical roles (Data Engineers). \
+1️⃣ The data shows a moderate positive correlation betwween the number of skills and yearly salary among data professionals, especially in technical roles (Data Engineers). 
+<br>
 2️⃣ However, seniority and specialization strongly impact the salary, where the skill count alone doesn’t guarantee higher pay.
 
 ## 2. Yearly Salary of Each Jobs in Different Countries
@@ -64,8 +65,10 @@
 
 <br>
 
-1️⃣ US salaries are consistently the highest across all roles, showing that US has a very mature tech market with higher competition for talent, massive companies budgets and higher venture capital. \
-2️⃣ Singapore's salary varies strongly by job type. For instance, Data Scientist and Senior Data Scientist pays are slightly higher than US and Non-US, likely de to high demand in finance & trading firms and shortage of talent. \
+1️⃣ US salaries are consistently the highest across all roles, showing that US has a very mature tech market with higher competition for talent, massive companies budgets and higher venture capital.
+<br>
+2️⃣ Singapore's salary varies strongly by job type. For instance, Data Scientist and Senior Data Scientist pays are slightly higher than US and Non-US, likely de to high demand in finance & trading firms and shortage of talent.
+<br>
 3️⃣ Comparing Singapore to US job salaries, there's a huge gap of salaries in roles: 
    * Software Engineer (May due to Silicon Valley and FAANG sets high salary floor, and Singapore has far fewer tech companies compared to the US)
    * Machine Learning Engineer (May due to premium pay in the US as AI development is booming)
