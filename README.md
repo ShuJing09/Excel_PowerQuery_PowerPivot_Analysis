@@ -98,8 +98,25 @@
 
 ## Pay for Top Skills
 
+🧮 Created measures using DAX functions CALCULATE() and CROSSFILTER() to control the filter direction.
 
+```
+=CALCULATE(
+   [Median Salary],
+   CROSSFILTER(data_jobs_salary[job_id],
+   data_jobs_skills[job_id],
+   Both))
+```
+<br>
 
+📊 Insert Combo Pivot Chart to plot:
+   * Primary Axis: Median Salary (as a Clustered Column)
+   * Secondary Axis: Skill Likelihood (as a Line with Markers)
+<br>
+
+<img width="979" height="595" alt="image" src="https://github.com/user-attachments/assets/2693c33e-f0eb-4dad-a6f2-f16e62f3195c" /> <br>
+
+1️⃣ 
 
 ## Conclusion
 - 
