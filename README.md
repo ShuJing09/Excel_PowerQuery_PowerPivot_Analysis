@@ -29,7 +29,7 @@
          <br>
    * ```data_jobs_skill```  <br>
      <br>
-   <img width="313" height="476" alt="image" src="https://github.com/user-attachments/assets/88f289e5-e03a-4020-85f3-66a425146a08" />
+      <img width="313" height="476" alt="image" src="https://github.com/user-attachments/assets/88f289e5-e03a-4020-85f3-66a425146a08" />
 
 ## Load 💻
    * ```data_jobs_all``` 
