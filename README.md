@@ -43,14 +43,32 @@
 ## The Analysis 📈
 ### 1. More Skills = Better Pay?
 
-* 🧮 Added measure useing DAX functions like DIVIDE() for skills per job, MEDIAN() for median salary. <br>
+* 🧮 Created measures using DAX functions like DIVIDE() for skills per job, MEDIAN() for median salary. <br>
 
 <img width="1116" height="632" alt="image" src="https://github.com/user-attachments/assets/3039dbd1-e828-4ba8-8b9f-def1647ee9c9" /> <br>
 
 1️⃣ The data shows a moderate positive correlation betwween the number of skills and yearly salary among data professionals, especially in technical roles (Data Engineers). \
 2️⃣ However, seniority and specialization strongly impact the salary, where the skill count alone doesn’t guarantee higher pay.
 
-## 2. Yearly Salary of Each Jobs in Different Regions
+## 2. Yearly Salary of Each Jobs in Different Countries
+
+* 🧮 Created measures using DAX functions CALCULATE() for median salary in the United States, and slicer to filter different countries <br>
+ 
+ ```
+=CALCULATE(
+    MEDIAN(data_jobs_all[salary_year_avg]),
+    data_jobs_all[job_country] = "United States")
+```
+<br>
+<img width="2011" height="790" alt="image" src="https://github.com/user-attachments/assets/2be82502-1ff8-43d8-86e3-08e29897c0b1" /> <br>
+
+1️⃣ US salaries are consistently the highest across all roles, showing that US has a very mature tech market with higher competition for talent, massive companies budgets and higher venture capital. \
+2️⃣ Singapore's salary varies strongly by job type. For instance, Data Scientist and Senior Data Scientist pays are slightly higher than US and Non-US, likely de to high demand in finance & trading firms and shortage of talent. \
+:three: Comparing Singapore to US job salaries, there's a huge gap of salaries in roles: \
+   * Software Engineer (May due to Silicon Valley and FAANG sets high salary floor, and Singapore has far fewer tech companies compared to the US)
+   * Machine Learning Engineer (May due to premium pay in the US as AI development is booming)
+   * Cloud Engineer (May due to DevOps & Cloud migration boom in the US that leads to higher pay. ❗HOWEVER, Singapore's salaary data needs further investigation as the engineers' pay is lower than analyst)
+:four: The pays are competitive when it comes to seniority roles in all regions, indicating senior tech talent is highly valued everywhere.
 
 
 ## Pivot Charts
