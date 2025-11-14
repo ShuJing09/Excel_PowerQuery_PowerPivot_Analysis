@@ -17,8 +17,8 @@
 # ⚙️ Power Query : Extract, Transform and Load Data
 ## Extract 📥
 - Extract the data from Excel Workbook (_data_salary_all.xlsx_) and create two queries: \
-   * First query, _data_jobs_all_ that contains all job information.
-   * Second query, _data_jobs_skills_ that consists the skills for each job ID.
+   * First query, ```data_jobs_all``` that contains all job information.
+   * Second query, ```data_jobs_skills``` that consists the skills for each job ID.
 
 ## Transform 🔄
 - Transform the data by changing column type, trimming text, inserting custom & conditional columns, spliting text by delimeter and unpivoting columns. 
