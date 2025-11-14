@@ -93,7 +93,7 @@
 <br>
 3️⃣ The prominence of AWS and Azure in job postings highlights how organizations are rapidly moving toward cloud infrastructure and big data ecosystems. 
 <br>
-4️⃣ Utilization of Spark and Snowflake to build powerful and scalable data pipelines, indicates the essentiality to process big data for effecient data analytics.
+4️⃣ Utilization of Spark to build powerful and scalable data pipelines, indicates the essentiality to process big data for effecient data analytics.
 
 
 ## Pay for Top Skills
@@ -116,7 +116,8 @@
 
 <img width="979" height="595" alt="image" src="https://github.com/user-attachments/assets/2693c33e-f0eb-4dad-a6f2-f16e62f3195c" /> <br>
 
-1️⃣ 
+1️⃣ Although SQL, Python, and Excel are foundational skills for data-related roles, their corresponding salaries remain moderate. This suggests that while these skills are sufficient to enter the industry, higher pay typically requires additional specialized skills. 
+<br>
+2️⃣ The growth of AWS, Azure, and Spark reflects the shift toward big data technologies, resulting in strong demand and higher compensation for skilled professionals.
+<br>
 
-## Conclusion
-- 
