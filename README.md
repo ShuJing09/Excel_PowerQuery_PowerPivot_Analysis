@@ -79,7 +79,7 @@
 
 ## Top Skills for Data Professionals
 
-🧩 Used Power Pivot to create relationship between 2 queries ```data_jobs_all``` & ```data_jobs_skill``` on ```job_id``` (created indexes in ⚙️ Power Query ETL process) <br>
+🧩 Used Power Pivot to create relationship between 2 queries ```data_jobs_all``` & ```data_jobs_skill``` on ```job_id``` (created ```job_id``` indexes in ⚙️ Power Query ETL process) <br>
 
 <img width="1090" height="950" alt="image" src="https://github.com/user-attachments/assets/73977db0-b41b-40ca-803e-4bf47f5c19af" /> <br>
 
@@ -89,9 +89,11 @@
 
 1️⃣ SQL and Python dominate as top skills in data-related jobs, reflecting its foundational importance to most job opportunities.
 <br>
-2️⃣ The prominence of AWS and Azure in job postings highlights how organizations are rapidly moving toward cloud infrastructure and big data ecosystems.
+2️⃣ Excel remains a foundational skill in data industry as many analyst roles still rely heavily on Excel.
 <br>
-3️⃣ Utilization of Spark and Snowflake to build powerful and scalable data pipelines, indicates the essentiality to process big data for effecient data analytics.
+3️⃣ The prominence of AWS and Azure in job postings highlights how organizations are rapidly moving toward cloud infrastructure and big data ecosystems. 
+<br>
+4️⃣ Utilization of Spark and Snowflake to build powerful and scalable data pipelines, indicates the essentiality to process big data for effecient data analytics.
 
 
 ## Pay for Top Skills
