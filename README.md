@@ -69,7 +69,7 @@
 3️⃣ Comparing Singapore to US job salaries, there's a huge gap of salaries in roles: 
    * Software Engineer (May due to Silicon Valley and FAANG sets high salary floor, and Singapore has far fewer tech companies compared to the US)
    * Machine Learning Engineer (May due to premium pay in the US as AI development is booming)
-   * Cloud Engineer (May due to DevOps & Cloud migration boom in the US that leads to higher pay. ❗HOWEVER, Singapore's salary data needs further investigation as the engineers' pay is lower than analyst)
+   * Cloud Engineer (May due to DevOps & Cloud migration boom in the US that leads to higher pay. ❗HOWEVER, Singapore's salary data needs further investigation as the engineers' pay is lower than analyst) <br>
 4️⃣ The pays are competitive when it comes to seniority roles in all regions, indicating senior tech talent is highly valued everywhere.
 
 
