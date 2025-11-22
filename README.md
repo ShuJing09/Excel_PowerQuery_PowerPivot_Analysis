@@ -77,7 +77,7 @@
 4️⃣ The pays are competitive when it comes to seniority roles in all regions, indicating senior tech talent is highly valued everywhere.
 
 
-## Top Skills for Data Professionals
+## 3. Top Skills for Data Professionals
 
 🧩 Used Power Pivot to create relationship between 2 queries ```data_jobs_all``` & ```data_jobs_skill``` on ```job_id``` (created ```job_id``` indexes in ⚙️ Power Query ETL process) <br>
 
@@ -96,7 +96,7 @@
 4️⃣ Utilization of Spark to build powerful and scalable data pipelines, indicates the essentiality to process big data for effecient data analytics.
 
 
-## Pay for Top Skills
+## 4. Pay for Top Skills
 
 🧮 Created measures using DAX functions CALCULATE() and CROSSFILTER() to control the filter direction.
 
